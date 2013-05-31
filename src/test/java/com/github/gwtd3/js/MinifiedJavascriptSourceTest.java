@@ -11,7 +11,7 @@ public class MinifiedJavascriptSourceTest extends GWTTestCase {
 
     @Override
     public String getModuleName() {
-        return "com.github.gwtd3.js.test.MinifiedJavascriptSourceTest";
+        return "com.github.gwtd3.js.MinifiedJavascriptSourceTest";
     }
 
     private static final native String d3Version() /*-{
