@@ -56,7 +56,7 @@
 						</goals>
 						<configuration>
 							<url>https://raw.github.com/mbostock/d3/v${project.version}/d3.js</url>
-							<outputDirectory>${project.build.directory}/classes/com/github/mbostock/d3/public</outputDirectory>
+							<outputDirectory>${project.build.directory}/classes/com/github/gwtd3/js/public</outputDirectory>
 							<skipCache>true</skipCache>
 						</configuration>
 					</execution>
@@ -67,7 +67,7 @@
 						</goals>
 						<configuration>
 							<url>https://raw.github.com/mbostock/d3/v${project.version}/d3.min.js</url>
-							<outputDirectory>${project.build.directory}/classes/com/github/mbostock/d3/public</outputDirectory>
+							<outputDirectory>${project.build.directory}/classes/com/github/gwtd3/js/public</outputDirectory>
 							<skipCache>true</skipCache>
 						</configuration>
 					</execution>
