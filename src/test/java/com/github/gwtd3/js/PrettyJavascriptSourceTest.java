@@ -11,7 +11,7 @@ public class PrettyJavascriptSourceTest extends GWTTestCase {
 
     @Override
     public String getModuleName() {
-        return "com.github.gwtd3.js.test.PrettyJavascriptSourceTest";
+        return "com.github.gwtd3.js.PrettyJavascriptSourceTest";
     }
 
     private static final native String d3Version() /*-{
