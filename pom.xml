@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.gwtd3</groupId>
 	<artifactId>gwt-d3-js</artifactId>
-	<version>3.1.10-SNAPSHOT</version>
+	<version>3.2.0</version>
  
 	<properties> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
