@@ -13,7 +13,7 @@ The release process follows the official library versioning. This way, developpe
 Non-Goals
 ---------
 
-GWT-d3js is not a Java wrapper for d3.js. If your looking for a wrapper, you should take a look at [gwt-d3](https://github.com/anthonime/gwt-d3).
+GWT-d3js is not a Java wrapper for d3.js. If you are looking for a wrapper, you should take a look at [gwt-d3](https://github.com/gwtd3/gwt-d3).
 
 GWT-d3js does not enhance D3 in any way. The source code embeded in the JAR file comes directly from the official [D3 GitHub repository](https://github.com/mbostock/d3), unmodified.
 
