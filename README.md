@@ -1,7 +1,7 @@
 GWT-d3js
 ========
 
-D3.js embeded in a GWT Module.
+D3.js script embeded in a GWT Module. This module serves as the basis for the [gwt-d3](https://github.com/gwtd3/gwt-d3) library.
 
 Goals
 -----
