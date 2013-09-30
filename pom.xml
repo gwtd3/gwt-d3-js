@@ -21,16 +21,6 @@
 		<connection>scm:git:git://github.com/gwtd3/gwt-d3-js.git</connection>
 	</scm>
 
-	<distributionManagement>
-		<repository>
-			<uniqueVersion>false</uniqueVersion>
-			<id>gwt-d3-cloudbees-release-repository</id>
-			<name>CloudBees Release Repository</name>
-			<url>dav:https://repository-gwt-d3.forge.cloudbees.com/release/</url>
-			<layout>default</layout>
-		</repository>
-	</distributionManagement>
-
 	<build>
 		<extensions>
 			<extension>
