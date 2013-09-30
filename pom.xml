@@ -195,7 +195,7 @@
 					<configuration>
 						<mavenExecutorId>forked-path</mavenExecutorId>
 						<useReleaseProfile>false</useReleaseProfile>
-						<arguments>-s /private/gwt-d3/settings.xml -Psonatype-oss-release</arguments>
+						<arguments>-s /private/gwt-d3/settings.xml -Psonatype-oss-release -Dmaven.test.skip=true</arguments>
 					</configuration>
 				</plugin>
 				<!--This plugin's configuration is used to store Eclipse m2e settings 
