@@ -6,6 +6,8 @@
 <module>
 	<inherits name="com.google.gwt.user.User" />
 	<inherits name="com.google.gwt.i18n.I18N" />
-	<inherits name="com.github.gwtd3.js.MinifiedJavascriptSource" />
+	<inherits name="com.github.gwtd3.js.D3" />
 	<source path="" />
+	
+	<set-property name="d3.pretty" value="false" /> 
 </module>
